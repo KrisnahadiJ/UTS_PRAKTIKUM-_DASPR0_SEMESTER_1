@@ -68,6 +68,5 @@ public class ManajemenStokBarang11 {
         for (int i = 0; i < jumlahBarang; i++) {
             System.out.printf("Barang: %s, Jumlah Stok: %d, Harga per Unit: ", namaBarang[i], jumlahStok[i], hargaPerUnit[i]);
         }
-        
     }
 }
